@@ -1,5 +1,8 @@
 <template>
-  <div ref="TimeSeriesChart" class="chart-container" />
+  <div>
+    <h1>test1</h1>
+    <div ref="TimeSeriesChart" class="chart-container" />
+  </div>
 </template>
 
 <script>
